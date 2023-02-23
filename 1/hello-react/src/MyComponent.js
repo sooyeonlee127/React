@@ -1,3 +1,5 @@
+// props 연습
+
 import PropTypes from 'prop-types';
 
 const MyComponent = ({ name, children, favoriteNumber }) => {

@@ -1,3 +1,5 @@
+// useState 사용하기 연습
+
 import React, { useState } from "react";
 
 const Say = () => {

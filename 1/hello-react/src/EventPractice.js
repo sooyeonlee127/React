@@ -1,3 +1,5 @@
+// event 연습
+
 import React, { useState } from "react";
 
 const EventPractice = () => {
